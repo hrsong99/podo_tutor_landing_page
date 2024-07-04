@@ -6,7 +6,7 @@ baseurl: "/podo_tutor_landing_page" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
-site_logo: "/assets/images/logo_1.png"
+site_logo: "/podo_tutor_landing_page/assets/images/logo_1.png"
 copyright: "Copyright &copy; 2020 <span>Deneb</span>. All rights reserved."
 
 permalink: "/:title"
@@ -22,7 +22,7 @@ facebook_url: "https://www.facebook.com/tortoiztheme"
 twitter_url: "https://twitter.com/tortoizthemes"
 instagram_url: "https://instagram.com/"
 
-hero_image: "/assets/images/breadcrumb_bg.jpg"
+hero_image: "/podo_tutor_landing_page/assets/images/breadcrumb_bg.jpg"
 
 sass:
   sass_dir: _sass
