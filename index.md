@@ -4,25 +4,11 @@ layout: home
 # Slider
 slider:
   - image: "/assets/images/banner_1.png"
-    heading: "We Are  <br><span>The Fourty2</span>"
+    heading: "We Are  <br><span>Podo</span>"
     heading2: "We design software that turns good to great"
     text: "Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante sed eu lacus et diam lacinia."
     button:
-      name: "Hire Me"
-      link: "#"
-  - image: "/assets/images/banner_02.png"
-    heading: "We Are  <br><span>The Fourty2</span>"
-    heading2: "We design software that turns good to great"
-    text: "Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante sed eu lacus et diam lacinia."
-    button:
-      name: "Hire Me"
-      link: "#"
-  - image: "/assets/images/banner_03.png"
-    heading: "We Are  <br><span>The Fourty2</span>"
-    heading2: "We design software that turns good to great"
-    text: "Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante sed eu lacus et diam lacinia."
-    button:
-      name: "Hire Me"
+      name: "Join Us"
       link: "#"
 
 # Services
